@@ -1,8 +1,7 @@
-/** @type {import('next').NextConfig} */
+// next.config.mjs
 const nextConfig = {
-    reactStrictMode: true,
-    // Add basePath or trailingSlash if necessary
-  }
-  
-  module.exports = nextConfig
-  
+  reactStrictMode: true,
+  // Add any other Next.js configuration options here
+}
+
+export default nextConfig;
