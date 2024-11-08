@@ -33,4 +33,3 @@ Build this app : npm run build
 Start the app: npm run start
 
 ```'
-Image link: https://github.com/user-attachments/assets/d5f38460-c54f-4e19-bdf5-47eea3991572
