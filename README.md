@@ -2,8 +2,6 @@
 
 ![Project Image](https://github.com/user-attachments/assets/000e60c4-f362-4e1a-a636-59680089da03)
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 ## About This Project
 
 -   ⚛️ **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Tailwind
